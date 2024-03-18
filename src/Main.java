@@ -21,9 +21,9 @@ public class Main {
         System.out.println();
         String expectedFullNameS = "Иванов Семен Семенович";
         if (fullNameS.equals(expectedFullNameS)) {
-            System.out.println("Успех");
+            System.out.println("Успех.");
         } else {
-            System.out.println("Неудача");
+            System.out.println("Неудача.");
         }
     }
 }
